@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 37 in 27 lines: 12.96 · PIFches AT 4.500 9.Oo0 · 2-18 · 5.000 · 5.54 · HOLES · 281 DIA = · MAIERAAL: Fish · PARER · Thick · ISSUE DATE · REVISION
 - **Title block:** (279, 10)–(432, 79) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN GEB · M773 / M773A · ENG.GEB "/82 · Fisk PA PER · CKD_ · COVER · APP · SCALE |: · ISSUE · 015 · 773-03-004
 
-Every curve, box, word and wire group: [19xx - M773 - DOC - 773-03-004 - DIA MAIERIAL FISH PARER (traced).json](../MECHANICAL/19xx%20-%20M773%20-%20DOC%20-%20773-03-004%20-%20DIA%20MAIERIAL%20FISH%20PARER%20(traced).json) (the CAD file: `19xx - M773 - DOC - 773-03-004 - DIA MAIERIAL FISH PARER (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M773 - DOC - 773-03-004 - DIA MAIERIAL FISH PARER (traced).json](../MECHANICAL/19xx%20-%20M773%20-%20DOC%20-%20773-03-004%20-%20DIA%20MAIERIAL%20FISH%20PARER%20%28traced%29.json) (the CAD file: `19xx - M773 - DOC - 773-03-004 - DIA MAIERIAL FISH PARER (traced).dxf`).
 
 ## Full text
 
