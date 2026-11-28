@@ -1,6 +1,6 @@
 # M773 Intercom Module · Communication
 
-Ward-Beck Systems M773, 1982|15. Wiki page: [M773 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M773.html)
+Ward-Beck Systems M773, 1982|15. Wiki page: [M773 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M773-Intercom-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

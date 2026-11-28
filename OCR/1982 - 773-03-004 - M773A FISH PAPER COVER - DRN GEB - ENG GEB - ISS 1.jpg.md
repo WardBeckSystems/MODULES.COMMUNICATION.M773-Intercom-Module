@@ -1,5 +1,5 @@
 # 1982 - 773-03-004 - M773A FISH PAPER COVER - DRN GEB - ENG GEB - ISS 1.jpg
-Wiki page: [M773](../../../../PAGES/M773.md)
+Wiki page: [M773](../)
 
 
 - **Year:** 1982 (title block date)
